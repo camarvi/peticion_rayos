@@ -12,11 +12,11 @@
 // CONEXION AL SERVIDOR SQL SERVER
 
 
-define("DB_DSN","dblib:host=10.8.65.17;dbname=VISADO");
+define("DB_DSN","dblib:host=10.······;dbname=------");
 
 
-define("DB_USERNAME", "sa");
-define("DB_PASSWORD", "servidor");
+define("DB_USERNAME", "#####");
+define("DB_PASSWORD", "######");
 define("PAGE_SIZE", 5);
     
 
